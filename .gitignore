@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Built binaries
+Built
+
+#IOS
+IOS_Backups
